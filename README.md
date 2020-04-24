@@ -1,1 +1,2 @@
-# mysuperproject
+# Django1laba
+Создание учебного репозитория
